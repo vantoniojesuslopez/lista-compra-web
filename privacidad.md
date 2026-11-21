@@ -1,10 +1,10 @@
 # Política de privacidad de Lista Compra
 
-App para Android · última actualización: 21 de noviembre de 2026
+App para Android · última actualización: 22 de noviembre de 2026
 
 ## Responsable
 
-El desarrollador de Lista Compra. Contacto: el correo que aparece en la ficha de Lista Compra en Google Play.
+El desarrollador de Lista Compra. Contacto: [listcomprapp@gmail.com](mailto:listcomprapp@gmail.com).
 
 ## Datos que se guardan
 
@@ -34,7 +34,7 @@ La app no está dirigida a menores de 16 años.
 ## Tus derechos
 
 Puedes borrar tus datos en cualquier momento desde la app o desinstalándola. Para cualquier consulta,
-escríbenos; también puedes reclamar ante la Agencia Española de Protección de Datos (www.aepd.es).
+escríbenos a listcomprapp@gmail.com; también puedes reclamar ante la Agencia Española de Protección de Datos (www.aepd.es).
 
 ## Cambios
 
