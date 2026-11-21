@@ -1,0 +1,9 @@
+{
+  "_leeme": "Servidores de «Cerca de ti». Si uno deja de funcionar o pide que no se use, se cambia aquí y todas las apps lo cogen al abrirse, sin actualizar. cerca_de_ti=false apaga la función y enseña el aviso.",
+  "cerca_de_ti": true,
+  "aviso": "",
+  "photon": "https://photon.komoot.io/api/",
+  "nominatim": "https://nominatim.openstreetmap.org",
+  "valhalla": "https://valhalla1.openstreetmap.de",
+  "osrm": "https://routing.openstreetmap.de/routed-{modo}"
+}
