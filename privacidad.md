@@ -1,6 +1,6 @@
 # Política de privacidad de Lista Compra
 
-App para Android · última actualización: 22 de noviembre de 2026
+App para Android · última actualización: 23 de noviembre de 2026
 
 ## Responsable
 
@@ -15,6 +15,7 @@ Tus listas, tickets, fotos de tickets, supermercados y productos que añades, y 
 
 - **Cámara y fotos:** para escanear códigos de barras y guardar fotos de tickets. Las fotos se procesan en el
   propio móvil y no se envían.
+- **Micrófono:** solo cuando dictas la lista. El reconocimiento de voz lo hace el servicio de voz del propio móvil.
 - **Ubicación:** solo cuando usas «Cerca de ti», para buscar los supermercados cercanos. No se usa en segundo plano.
 
 ## Datos que salen del móvil
